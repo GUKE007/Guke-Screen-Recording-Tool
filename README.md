@@ -1,2 +1,31 @@
-# Guke-Screen-Recording-Tool
-Screen Recording Tool
+# 🎬 孤客录屏大师 - Screen Recorder Master
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+
+一个功能强大、界面美观的屏幕录制工具，支持全屏和区域录制，具有现代化的用户界面。
+
+## ✨ 特性
+
+- 🖥️ **全屏/区域录制** - 支持全屏或自定义区域录制
+- 🎯 **多种画质** - 超清、高清、标准、流畅四种画质选择
+- ⚡ **快捷键操作** - F9开始/停止录制，F10紧急停止
+- 🎨 **现代化界面** - 深色科技主题，美观易用
+- 📁 **文件管理** - 录制历史管理，支持播放和删除
+- 💾 **自定义保存路径** - 自由选择文件保存位置
+
+## 🚀 快速开始
+
+### 方式一：使用预编译版本（推荐）
+
+1. 前往 [Releases](https://github.com/GUKE007/Guke-Screen-Recording-Tool/) 页面
+2. 下载最新版本的 `ScreenRecorderMaster_v1.0.0.exe`
+3. 双击即可运行，无需安装任何依赖
+
+### 方式二：从源代码运行
+
+1. 克隆项目
+```bash
+git clone https://github.com/GUKE007/Guke-Screen-Recording-Tool.git
+cd screen-recorder-master
