@@ -110,7 +110,6 @@ OpenCV - 视频处理
 
 Pillow - 图像处理
 
-text
 
 ### CHANGELOG.md
 ```markdown
